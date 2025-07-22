@@ -1,4 +1,4 @@
-#how to clone this remote application ? 
+# how to clone this remote application ? 
 
 -  create vue nx workspace
 -  create apps folder
